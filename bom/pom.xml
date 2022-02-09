@@ -25,7 +25,7 @@
     </licenses>
 
     <properties>
-        <struts-version.version>2.5.3-SNAPSHOT</struts-version.version>
+        <struts-version.version>2.5.26</struts-version.version>
     </properties>
 
     <build>
